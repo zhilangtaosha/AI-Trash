@@ -1,0 +1,6 @@
+pandas
+matplotlib
+pytorch 
+torchvision
+cudatoolkit=10.2
+scikit-learn
